@@ -1,2 +1,2 @@
 # Colors
-Web app that allows the user to create, change, and save color palettes of their choice
+Web app that allows the user to create, change, and save color palettes of their choice. Created with Chroma-js
